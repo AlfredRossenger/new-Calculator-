@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.target=operacionesBasicas
+comment0.text=\n\ Write\ a\ description\ of\ interface\ operacionesBasicas\ here.\n\n\ @author\ (your\ name)\n\ @version\ (a\ version\ number\ or\ a\ date)\n
+comment1.params=numero\ otro
+comment1.target=int\ sumar(int,\ int)
+comment2.params=numero\ otro
+comment2.target=int\ restar(int,\ int)
+comment3.params=numero\ otro
+comment3.target=int\ multiplicar(int,\ int)
+comment4.params=numero\ otro
+comment4.target=int\ dividir(int,\ int)
+numComments=5

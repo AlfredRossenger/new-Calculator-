@@ -1,0 +1,22 @@
+#BlueJ class context
+comment0.target=Nodo
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ Nodo\ here.\r\n\r\n\ @author\ (your\ name)\r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=
+comment1.target=Nodo()
+comment1.text=\r\n\ Constructor\ de\ un\ Nodo\ vacio.\ <br>\r\n\ <b>post\:\ </b>\ Se\ construyo\ un\ Nodo\ vacio\ con\ la\ informacion\ en\ NULL.\r\n
+comment2.params=info\ sig
+comment2.target=Nodo(java.lang.Object,\ Nodo)
+comment2.text=\r\n\ Contructor\ inicializa\ los\ miembros\ datos\ de\ Nodo.\ <br>\r\n\ <b>post\:\ </b>\ Se\ construyo\ el\ nodo\ con\ los\ datos\ especificados.<br>\r\n\ @param\ info\ Objeto\ de\ tipo\ T\ con\ la\ informacion\ del\ Nodo.<br>\r\n\ @param\ sig\ Siguiente\ Nodo\ que\ continua\ al\ Nodo\ actual.\r\n
+comment3.params=
+comment3.target=java.lang.Object\ getInfo()
+comment3.text=\r\n\ Obtiene\ la\ informaci\u00F3n\ del\ nodo.\ <br>\r\n\ <b>post\:\ </b>\ Se\ retorno\ la\ informacion\ del\ Nodo.<br>\r\n\ @return\ Un\ objeto\ tipo\ T\ con\ la\ informacion\ del\ Nodo.\r\n
+comment4.params=
+comment4.target=Nodo\ getSig()
+comment4.text=\r\n\ Obtiene\ el\ Nodo\ Siguiente.\ <br>\r\n\ <b>post\:\ </b>\ Se\ retorno\ el\ siguiente\ nodo.\ <br>\r\n\ @return\ El\ nodo\ siguiente\ o\ null\ si\ el\ \u00FAltimo\ nodo\ o\ si\ es\ una\ Lista\ con\ cardinalidad\ 1.\ \r\n
+comment5.params=nuevo
+comment5.target=void\ setInfo(java.lang.Object)
+comment5.text=\r\n\ Cambia\ la\ informacion\ del\ Nodo\ del\ campo\ Info.\ <br>\r\n\ <b>post\:\ </b>\ Se\ edito\ la\ informacion\ del\ Nodo.\ <br>\r\n\ @param\ nuevo\ Nuevo\ objeto\ que\ desea\ almacenarse\ en\ el\ Nodo\r\n
+comment6.params=nuevo
+comment6.target=void\ setSig(Nodo)
+comment6.text=\r\n\ Cambia\ el\ nodo\ siguiente.\ <br>\r\n\ <b>post\:\ </b>\ Se\ edito\ el\ Nodo\ siguiente.<br>.\r\n\ @param\ nuevo\ Nuevo\ Nodo\ siguiente.\r\n
+numComments=7
