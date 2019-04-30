@@ -1,0 +1,22 @@
+//   este txt guarda los commits de mi proyecto.
+
+
+commit 3285d2d4a6cd4fba20dbd5fa60954a312bc91e4b
+Author: CARLOS ALEJANDRO QUIÑONES MARTINEZ <carlosalejandroqm@ufps.edu.co>
+Date:   Mon Apr 29 21:17:42 2019 -0500
+
+    segunda prueba git
+
+commit 19f3aab46a7753df44db90b048facd5d9da5411c
+Author: CARLOS ALEJANDRO QUIÑONES MARTINEZ <carlosalejandroqm@ufps.edu.co>
+Date:   Mon Apr 29 21:12:25 2019 -0500
+
+    agregar comentario de prueba
+
+commit 34b347581fe53bbc80eb4e09a6579c89e4f844a1
+Author: CARLOS ALEJANDRO QUIÑONES MARTINEZ <carlosalejandroqm@ufps.edu.co>
+Date:   Mon Apr 29 21:09:56 2019 -0500
+
+    programa inicial
+
+
