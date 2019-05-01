@@ -1,5 +1,7 @@
 package model;
 
+// agregar nuevas funcionalidades al modelo 
+
 /**
  * Write a description of class Entity here.
  *
