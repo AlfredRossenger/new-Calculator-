@@ -1,0 +1,17 @@
+commit 946474aba1a245291a970fc558e0d80fb45ac70f
+Author: CARLOS ALEJANDRO QUIÑONES MARTINEZ <carlosalejandroqm@ufps.edu.co>
+Date:   Mon Apr 29 21:35:12 2019 -0500
+
+    guardando commits.txt
+
+commit 19f3aab46a7753df44db90b048facd5d9da5411c
+Author: CARLOS ALEJANDRO QUIÑONES MARTINEZ <carlosalejandroqm@ufps.edu.co>
+Date:   Mon Apr 29 21:12:25 2019 -0500
+
+    agregar comentario de prueba
+
+commit 34b347581fe53bbc80eb4e09a6579c89e4f844a1
+Author: CARLOS ALEJANDRO QUIÑONES MARTINEZ <carlosalejandroqm@ufps.edu.co>
+Date:   Mon Apr 29 21:09:56 2019 -0500
+
+    programa inicial

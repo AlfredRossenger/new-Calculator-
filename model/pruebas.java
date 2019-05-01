@@ -17,7 +17,8 @@ public class pruebas
           if(Entity.validarLeer(str))System.out.println("true"); 
           else System.out.println("false"); 
       }
-    
+      System.out.print("segunda prueba de git"); 
+      
   }
 
 
