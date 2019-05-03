@@ -5,7 +5,7 @@ package model;
 /**
  * Write a description of class Entity here.
  *
- * @author (your name)
+ * @author Carlos Alejandro Quiñones Martinez 
  * @version (a version number or a date)
  */
 import java.lang.*; 
