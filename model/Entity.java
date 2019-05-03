@@ -1,7 +1,6 @@
 package model;
 
-// agregar nuevas funcionalidades al modelo 
-// prueba git en rama test prueba 0.00000000000000000000000000000000001
+
 
 /**
  * Write a description of class Entity here.
@@ -47,6 +46,8 @@ public class Entity implements operacionesBasicas
     public  boolean validarLeer()throws Exception {
 
         char [] c = convertirChar(this.cadena); 
+
+         // aqui debe ir un pila que haga revisiones de opeadores aritmeticos y de parentesis 
         
         return false ; 
     }
