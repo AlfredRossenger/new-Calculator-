@@ -1,12 +1,14 @@
 package model;
 
+// HELLO GITHUB :D , FIRST COMMIT HERE !
+
 
 
 /**
  * Write a description of class Entity here.
  *
  * @author Carlos Alejandro Quiñones Martinez 
- * @version (a version number or a date)
+ * @version 0.000000000000000000000001
  */
 import java.lang.*; 
 
